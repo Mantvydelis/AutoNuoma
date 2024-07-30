@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Automobilių nuomos sistema/1.0.0": {
+        "dependencies": {
+          "AutomobiliuNuoma.Core": "1.0.0"
+        },
+        "runtime": {
+          "Automobilių nuomos sistema.dll": {}
+        }
+      },
+      "AutomobiliuNuoma.Core/1.0.0": {
+        "runtime": {
+          "AutomobiliuNuoma.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Automobilių nuomos sistema/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AutomobiliuNuoma.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

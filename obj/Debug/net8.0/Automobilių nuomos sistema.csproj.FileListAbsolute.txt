@@ -1,0 +1,21 @@
+C:\Users\mantv\source\repos\Automobilių nuomos sistema\obj\Debug\net8.0\Automobilių nuomos sistema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mantv\source\repos\Automobilių nuomos sistema\obj\Debug\net8.0\Automobilių nuomos sistema.AssemblyInfoInputs.cache
+C:\Users\mantv\source\repos\Automobilių nuomos sistema\obj\Debug\net8.0\Automobilių nuomos sistema.AssemblyInfo.cs
+C:\Users\mantv\source\repos\Automobilių nuomos sistema\obj\Debug\net8.0\Automobilių nuomos sistema.csproj.CoreCompileInputs.cache
+C:\Users\mantv\source\repos\Automobilių nuomos sistema\bin\Debug\net8.0\Automobilių nuomos sistema.exe
+C:\Users\mantv\source\repos\Automobilių nuomos sistema\bin\Debug\net8.0\Automobilių nuomos sistema.deps.json
+C:\Users\mantv\source\repos\Automobilių nuomos sistema\bin\Debug\net8.0\Automobilių nuomos sistema.runtimeconfig.json
+C:\Users\mantv\source\repos\Automobilių nuomos sistema\bin\Debug\net8.0\Automobilių nuomos sistema.dll
+C:\Users\mantv\source\repos\Automobilių nuomos sistema\bin\Debug\net8.0\Automobilių nuomos sistema.pdb
+C:\Users\mantv\source\repos\Automobilių nuomos sistema\bin\Debug\net8.0\AutomobiliuNuoma.Core.dll
+C:\Users\mantv\source\repos\Automobilių nuomos sistema\bin\Debug\net8.0\AutomobiliuNuoma.Core.pdb
+C:\Users\mantv\source\repos\Automobilių nuomos sistema\obj\Debug\net8.0\Automobilių nuomos sistema.csproj.AssemblyReference.cache
+C:\Users\mantv\source\repos\Automobilių nuomos sistema\obj\Debug\net8.0\Automobi.641D6091.Up2Date
+C:\Users\mantv\source\repos\Automobilių nuomos sistema\obj\Debug\net8.0\Automobilių nuomos sistema.dll
+C:\Users\mantv\source\repos\Automobilių nuomos sistema\obj\Debug\net8.0\refint\Automobilių nuomos sistema.dll
+C:\Users\mantv\source\repos\Automobilių nuomos sistema\obj\Debug\net8.0\Automobilių nuomos sistema.pdb
+C:\Users\mantv\source\repos\Automobilių nuomos sistema\obj\Debug\net8.0\Automobilių nuomos sistema.genruntimeconfig.cache
+C:\Users\mantv\source\repos\Automobilių nuomos sistema\obj\Debug\net8.0\ref\Automobilių nuomos sistema.dll
+C:\Users\mantv\source\repos\Automobilių nuomos sistema\bin\Debug\net8.0\Automobiliai.csv
+C:\Users\mantv\source\repos\Automobilių nuomos sistema\bin\Debug\net8.0\Klientai.csv
+C:\Users\mantv\source\repos\Automobilių nuomos sistema\obj\Debug\net8.0\Automobilių nuomos sistema.sourcelink.json
